@@ -1,0 +1,10 @@
+Name,Xpath
+java.string,java.string
+Global Page,****************************************************************
+"	",
+"	",
+Login Page,****************************************************************
+txt_loginPg_userName,//input[@id='inputUsername']
+txt_loginPg_password,//input[@name='inputPassword']
+"	",
+Home Page,****************************************************************

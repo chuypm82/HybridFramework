@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Functionality1.CS_TestCase1
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.46 s -- in Functionality1.CS_TestCase1

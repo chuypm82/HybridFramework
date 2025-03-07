@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<parameters>
+	<Project>Project1</Project>
+	<Enviroment>Testing</Enviroment>
+	<URL>https://rahulshettyacademy.com/locatorspractice/</URL>
+	<Browser>ME</Browser>
+	<ME_addArguments>My profile1</ME_addArguments>
+	<HeadlessExecution>No</HeadlessExecution>
+</parameters>
