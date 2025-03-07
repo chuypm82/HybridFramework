@@ -13,7 +13,7 @@ public class CS_TestCase1 extends BaseClass {
 
 	public void CS_TestCase1_Test() throws Exception {
 
-		// ** Open Browser **
+		// ** Open Browser ** // Update 1 - Closing all browsers
 		Keyword.ADD_COMMENT_TO_LOG("Open Browser");
 		Open_Browser.Open_Browser_Test();
 
