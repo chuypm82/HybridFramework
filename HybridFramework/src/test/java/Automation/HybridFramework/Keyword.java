@@ -269,7 +269,7 @@ public class Keyword extends BaseClass {
 
 	public static void OPEN_BROWSER() throws Exception {
 
-		Miscellaneous.closeAllBrowsers();
+		//Miscellaneous.closeAllBrowsers();
 		INITIALIZE();
 		// Get code line for report
 		
